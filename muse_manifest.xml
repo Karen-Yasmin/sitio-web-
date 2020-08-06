@@ -1,0 +1,54 @@
+<manifest alg="2" build="2015.2.1.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="Sitio web.com" resolutions="1x" timestamp="1596678050486">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="4199991701" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4242129463" ref="index"/>
+    <file name="webpro.js" crc="4067903014" ref="index"/>
+    <file name="musewpslideshow.js" crc="4265225696" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4075157096" ref="index"/>
+    <file name="touchswipe.js" crc="474750357" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="index"/>
+    <file name="pie.js" crc="3831537696" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="form_check.php" crc="121412709" ref="index"/>
+    <file name="form_throttle.php" crc="4268640971" ref="index"/>
+    <file name="form_process.php" crc="444429785" ref="index"/>
+    <file name="form-u960.php" crc="3777227389" ref="index"/>
+    <file name="form-u1029.php" crc="4202145567" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4150485998" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="frutas.jpg" crc="3998126614" ref="index"/>
+    <file name="u662-5.png" crc="4176452194" ref="index"/>
+    <file name="u682-15.png" crc="431563490" ref="index"/>
+    <file name="lavarfrutayverdura-ppal.jpg" crc="64478889" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="unnamed.jpg" crc="209648355" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u827-4.png" crc="4291910509" ref="index"/>
+    <file name="u830-41.png" crc="4150317275" ref="index"/>
+    <file name="900x600-crop-u1093.jpg" crc="4037432541" ref="index"/>
+    <file name="fresa-en-paquete-33485802-crop-u1215.jpg" crc="238061524" ref="index"/>
+    <file name="kartox-caja-frutas-verduras-con-tapa-separadores-crop-u1235.jpg" crc="18862109" ref="index"/>
+    <file name="paquetes-destacada.png" crc="295330152" seo="true" ref="index"/>
+    <file name="u971-17.png" crc="116416003" ref="index"/>
+    <file name="u971-17-r.png" crc="19860246" ref="index"/>
+    <file name="u971-17-m.png" crc="4270555658" ref="index"/>
+    <file name="u971-17-fs.png" crc="236979111" ref="index"/>
+    <file name="u1012-5.png" crc="4118367795" ref="index"/>
+    <file name="u1016-10.png" crc="146166232" ref="index"/>
+    <file name="u1026-4.png" crc="90694924" ref="index"/>
+    <file name="u1040-17.png" crc="4082168514" ref="index"/>
+    <file name="u1040-17-r.png" crc="3792496831" ref="index"/>
+    <file name="u1040-17-m.png" crc="176521176" ref="index"/>
+    <file name="u1040-17-fs.png" crc="4248023539" ref="index"/>
+  </folder>
+  <file name="index.html" crc="290364439" seo="true" mt="1596677231436" redirect="true"/>
+</manifest>
